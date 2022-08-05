@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    font-family: Roboto, sans-serif;
+}
+#Menu{
+    background-color: #29292E;
+    width: 100%;
+    height: 70px;
+}
+.Pesquisar{
+    display: flex;
+    
+}
+.Logo{
+    color: #E1E1E6;
+    display: flex;
+    padding-top: 20px;
+    margin: 0px 250px ;
+}
+.Navegar{
+    padding-top: 30px;
+    display: flex;
+    list-style: none;
+    color: #8D8D99;
+}
+.c-bmiQaE {
+    margin: 0px 20px 0px 0px;
+    padding-top: 17px;
+}
+.c-nUeur {
+    padding-top: 17px;
+}
+.Perfil{
+    color: #E1E1E6;
+    background-color: #633BBC;
+    font-size: 18px;
+    width: 55px;
+    height: 55px;
+    border-radius: 100%;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-left: 20px;
+    padding: 17px 0px 0px 12px;
+    border: #E1E1E6 2px solid;
+}
