@@ -1,0 +1,44 @@
+.corpo {
+    align-items: center;
+}
+
+
+.introducao {
+    width: 1120px;
+    height: 149px;
+    display: flex;
+    border-radius: 5px 5px 0px 0px;
+    background: 
+        linear-gradient(90deg, rgb(32, 32, 36) 0%, rgb(23, 23, 26) 100%);
+    margin: 50px 0px 0px 400px;
+    border-bottom: 0.12rem solid;
+    border-image: linear-gradient(90deg, rgb(56, 55, 252) 0%,rgb(27, 35, 64) 100%) 0 0 100% / 0.19rem 0 0.12rem / 0 stretch;
+}
+
+.t1 {
+    font-size: 32px; 
+    color: #E1E1E6;
+    margin: 55px 0px 0px 50px;
+    align-items: center;
+}
+.t2 {
+    font-size: 19px;
+    width: 293px;
+    height: 77px;
+    color: #C4C4CC;
+    margin: 40px 0px 0px 100px;   
+    align-items: center;
+}
+.but {
+    align-items: center;
+    color: #ffffff;
+    font-size: 0.88rem  ;
+    background: #4863F7;
+    border: none;
+    width: 166px;
+    height: 40px;
+    margin: 50px 0px 0px 150px ;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
