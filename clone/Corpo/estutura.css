@@ -1,5 +1,6 @@
 .corpo {
     align-items: center;
+    font-family: ;
 }
 
 
@@ -41,4 +42,25 @@
     border-radius: 5px;
     text-transform: uppercase;
     font-weight: bold;
+}
+
+.conectar {
+    width: 1120px;
+    height: 319px;
+    display: flex;
+    border-radius: 5px 5px 0px 0px;
+    background: 
+        linear-gradient(90deg, rgb(32, 32, 36) 0%, rgb(23, 23, 26) 100%);
+    margin: 50px 0px 0px 400px;
+}
+
+.lg4{
+    width: 124px;
+    height: 124px;
+    margin: 30px 10px 0px 30px;
+}
+
+.tconectar {
+    color:#E1E1E6;
+    font-size: 32px;
 }
